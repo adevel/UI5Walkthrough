@@ -5,3 +5,4 @@ I want to test how easy it is to serve a UI5 app via github using [githack](http
 
 * [Step 1](https://rawcdn.githack.com/adevel/UI5Walkthrough/step1/webapp/index.html)
 * [Step 2](https://rawcdn.githack.com/adevel/UI5Walkthrough/step2/webapp/index.html)
+* [Step 3](https://rawcdn.githack.com/adevel/UI5Walkthrough/step3/webapp/index.html)
