@@ -10,3 +10,4 @@ I want to test how easy it is to serve a UI5 app via github using [githack](http
 * [Step 5](https://rawcdn.githack.com/adevel/UI5Walkthrough/step5/webapp/index.html)
 * [Step 6](https://rawcdn.githack.com/adevel/UI5Walkthrough/step6fix/webapp/index.html)
 * [Step 7](https://rawcdn.githack.com/adevel/UI5Walkthrough/step7/webapp/index.html)
+* [Step 8: Translatable Texts](https://rawcdn.githack.com/adevel/UI5Walkthrough/step7/webapp/index.html)
